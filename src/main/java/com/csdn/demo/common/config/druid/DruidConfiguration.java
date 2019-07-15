@@ -17,7 +17,7 @@ import java.sql.SQLException;
 
 /*
 * 类描述：初始化druid数据库监控的配置
-* @auther linzf
+* @auther ifyou丶
 * @create 2017/9/27 0027 
 */
 @Configuration

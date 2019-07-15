@@ -8,7 +8,7 @@ import com.csdn.demo.sys.entity.Tree;
 import com.csdn.demo.sys.entity.UserRole;
 
 /**
- *@author linzf
+ *@author ifyou丶
  **/
 public interface RoleAssociateTreeDao extends GenericDao<RoleAssociateTree, QueryRoleAssociateTree> {
 

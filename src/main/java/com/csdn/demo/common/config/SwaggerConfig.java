@@ -18,7 +18,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /*
 * 类描述：集成swagger框架
-* @auther linzf
+* @auther ifyou丶
 * @create 2017/8/9 0009 
 */
 @Configuration

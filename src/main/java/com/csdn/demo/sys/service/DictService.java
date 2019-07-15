@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 /**
- *@author linzf
+ *@author ifyou丶
  **/
 @Service("dictService")
 @Transactional(rollbackFor={IllegalArgumentException.class})

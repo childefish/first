@@ -5,9 +5,7 @@ import com.csdn.demo.common.base.dao.GenericDao;
 import com.csdn.demo.sys.entity.QueryUserRole;
 import com.csdn.demo.sys.entity.UserRole;
 
-/**
- *@author linzf
- **/
+
 public interface UserRoleDao extends GenericDao<UserRole, QueryUserRole> {
 
     /**

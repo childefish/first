@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 /**
- *@author linzf
+ *@author ifyou丶
  **/
 @Service("userAssociateRoleService")
 @Transactional(rollbackFor={IllegalArgumentException.class})

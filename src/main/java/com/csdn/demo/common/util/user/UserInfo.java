@@ -16,7 +16,7 @@ import java.util.*;
 
 /*
 * 类描述：
-* @auther linzf
+* @auther ifyou丶
 * @create 2017/12/11 0011 
 */
 public class UserInfo {

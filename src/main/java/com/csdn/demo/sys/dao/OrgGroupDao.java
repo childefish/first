@@ -6,7 +6,7 @@ import com.csdn.demo.sys.entity.OrgGroup;
 import com.csdn.demo.sys.entity.QueryOrgGroup;
 
 /**
- *@author linzf
+ *@author ifyou丶
  **/
 public interface OrgGroupDao extends GenericDao<OrgGroup, QueryOrgGroup> {
 

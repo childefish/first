@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *@author linzf
+ *@author ifyou丶
  **/
 public class UserRole {
 	private long id;

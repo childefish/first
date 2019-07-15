@@ -9,7 +9,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- *@author linzf
+ *@author ifyou丶
  **/
 public class User implements UserDetails {
 

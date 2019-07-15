@@ -13,7 +13,7 @@ import java.util.Map;
 
 /*
 * 类描述：数据字典操作类
-* @auther linzf
+* @auther ifyou丶
 * @create 2017/8/24 0024 
 */
 public class DictCache {

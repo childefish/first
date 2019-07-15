@@ -4,7 +4,7 @@ package com.csdn.demo.sys.entity;
 import com.csdn.demo.common.base.entity.QueryBase;
 
 /**
- *@author linzf
+ *@author ifyou丶
  **/
 public class QueryUserAssociateRole extends QueryBase {
 	private Integer userId;

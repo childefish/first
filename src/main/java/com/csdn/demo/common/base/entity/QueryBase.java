@@ -2,7 +2,7 @@ package com.csdn.demo.common.base.entity;
 
 /*
 * 类描述：查询基础类
-* @auther linzf
+* @auther ifyou丶
 * @create 2017/8/11 0011 
 */
 public class QueryBase {

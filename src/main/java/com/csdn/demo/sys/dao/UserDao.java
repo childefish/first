@@ -8,9 +8,7 @@ import com.csdn.demo.sys.entity.User;
 
 import java.util.List;
 
-/**
- *@author linzf
- **/
+
 public interface UserDao extends GenericDao<User, QueryUser> {
 
     /**

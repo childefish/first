@@ -1,7 +1,7 @@
 package com.csdn.demo.sys.entity;
 
 /**
- *@author linzf
+ *@author ifyou丶
  **/
 public class RoleAssociateTree {
 

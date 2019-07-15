@@ -6,7 +6,7 @@ import com.csdn.demo.sys.entity.Dict;
 import com.csdn.demo.sys.entity.QueryDict;
 
 /**
- *@author linzf
+ *@author ifyou丶
  **/
 public interface DictDao extends GenericDao<Dict, QueryDict> {
 

@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /*
 * 类描述：
-* @auther linzf
+* @auther ifyou丶
 * @create 2017/9/19 0019 
 */
 public class TreeDTO implements Serializable {

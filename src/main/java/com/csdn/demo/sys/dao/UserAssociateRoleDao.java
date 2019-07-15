@@ -6,9 +6,7 @@ import com.csdn.demo.sys.entity.QueryUserAssociateRole;
 import com.csdn.demo.sys.entity.User;
 import com.csdn.demo.sys.entity.UserAssociateRole;
 
-/**
- *@author linzf
- **/
+
 public interface UserAssociateRoleDao extends GenericDao<UserAssociateRole, QueryUserAssociateRole> {
 
     /**
